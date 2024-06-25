@@ -1,0 +1,124 @@
+﻿airport_code,country_code,city,airport_name,state,time_zone_offset,latitude,longitude
+ALB,USA,Albany,Albany International Airport,New York,-5.0,42.7481,-73.8027
+ANT,BEL,Antwerp,Antwerp International Airport,-,1.0,51.1894,4.4607
+ATL,USA,Atlanta,Hartsfield-Jackson Atlanta International Airport,Georgia,-5.0,33.6367,-84.4281
+AKL,NZL,Auckland,Auckland Airport,-,13.0,-37.0081,174.7850
+AUS,USA,Austin,Austin-Bergstrom International Airport,Texas,-6.0,30.1975,-97.6664
+SKB,KNA,Basseterre (St. Kitts),Robert L. Bradshaw International Airport,-,-4.0,17.3112,-62.7186
+PEK,CHN,Beijing,Beijing Capital International Airport,-,8.0,40.0799,116.6031
+PEK,CHN,Beijing,Beijing Capital International Airport,-,8.0,40.0801,116.5849
+TXL,DEU,Berlin,Berlin Tegel Airport,-,1.0,52.5597,13.2877
+TXL,DEU,Berlin,"Berlin Tegel ""Otto Lilienthal"" Airport",,1.0,52.5597,13.2877
+SXF,DEU,Berlin,Berlin Schönefeld Airport,,1.0,52.3728,13.5225
+BER,DEU,Berlin,Berlin Brandenburg Airport (Flughafen Berlin-Brandenburg),,1.0,52.3667,13.5033
+BDA,BMU,Bermuda,L.F. Wade International Airport,,-4.0,32.3640,-64.6780
+BGI,BRB,Bridgetown,Grantley Adams International Airport,A,-4.0,13.0746,-59.4925
+BRU,BEL,Brussels,Brussels Airport,-,1.0,50.9014,4.4844
+BRU,BEL,Brussels,Brussels Airport (Brussels-Zaventem Airport),,1.0,50.9014,4.4844
+BUD,HUN,Budapest,Budapest Ferenc Liszt International Airport,,1.0,47.4375,19.2556
+EZE,ARG,Buenos Aires,Buenos Aires Ministro Pistarini International Airport,-,-3.0,-34.8129,-58.5398
+BUF,USA,Buffalo,Buffalo Niagara International Airport,New York,-5.0,42.9405,-78.7322
+CCS,VEN,Caracas,Simón Bolívar International Airport,-,-4.0,10.6039,-66.9905
+CLT,USA,Charlotte,Charlotte Douglas International Airport,North Carolina,-5.0,35.2140,-80.9431
+CTU,CHN,Chengdu,Chengdu Shuangliu International Airport,-,8.0,30.5785,103.9468
+ORD,USA,Chicago,O'Hare International Airport,Illinois,-6.0,41.9742,-87.9073
+CVG,USA,Cincinnati,Cincinnati/Northern Kentucky International Airport,Ohio/Kentucky,-5.0,39.0488,-84.6678
+CLE,USA,Cleveland,Cleveland Hopkins International Airport,Ohio,-5.0,41.4106,-81.8375
+DKR,SEN,Dakar,Blaise Diagne International Airport,-,0.0,14.7397,-17.4902
+DSS,SEN,Dakar,Blaise Diagne International Airport (AIBD),,0.0,14.6704,-17.0734
+DFW,USA,Dallas,Dallas/Fort Worth International Airport,Texas,-6.0,32.8998,-97.0403
+DMM,SAU,Dammam,King Fahd International Airport,-,3.0,26.4712,49.7977
+DEL,IND,Delhi,Indira Gandhi International Airport,Delhi,5.5,28.5562,77.1000
+DTW,USA,Detroit,Detroit Metropolitan Wayne County Airport,Michigan,-5.0,42.2124,-83.3534
+DXB,ARE,Dubai,Dubai International Airport,-,4.0,25.2522,55.3644
+DBV,HRV,Dubrovnik,Dubrovnik Airport,-,1.0,42.5614,18.2682
+RSW,USA,Fort Myers,Southwest Florida International Airport,Florida,-5.0,26.5361,-81.7552
+FDF,MTQ,Fort-de-France,Martinique Aimé Césaire International Airport,-,-4.0,14.5919,-61.0032
+FRA,DEU,Frankfurt,Frankfurt Airport,-,1.0,50.0379,8.5622
+GVA,CHE,Geneva,Geneva Airport,,1.0,46.2386,6.1084
+CAN,CHN,Guangzhou,Guangzhou Baiyun International Airport,-,8.0,23.3924,113.2988
+GUA,GTM,Guatemala City,La Aurora International Airport,-,-6.0,14.5886,-90.5307
+HAM,DEU,Hamburg,Hamburg Airport,-,1.0,53.6304,9.9882
+HKG,HKG,Hong Kong,Hong Kong International Airport,-,8.0,22.3080,113.9185
+HKG,HKG,Hong Kong,Hong Kong International Airport,-,8.0,22.3080,113.9185
+HKG,HKG,Hong Kong,Hong Kong International Airport (Chek Lap Kok),-,8.0,22.3080,113.9185
+HKG,HKG,Hong Kong,Hong Kong International Airport (Kai Tak),-,8.0,22.3080,113.9185
+HKG,HKG,Hong Kong,Hong Kong International Airport (Chek Lap Kok - Panam),-,8.0,22.3166,113.9369
+HKG,HKG,Hong Kong,Hong Kong International Airport,-,8.0,22.3080,113.9185
+HNL,USA,Honolulu,Daniel K. Inouye International Airport,Hawaii,-10.0,21.3209,-157.9247
+IAH,USA,Houston,George Bush Intercontinental Airport,Texas,-6.0,29.9902,-95.3368
+IST,TUR,Istanbul,Istanbul Airport,-,3.0,41.2756,28.7519
+JNB,ZAF,Johannesburg,O.R. Tambo International Airport,-,2.0,-26.1367,28.2460
+KHI,PAK,Karachi,Jinnah International Airport,Sindh,5.0,24.9065,67.1608
+LOS,NGA,Lagos,Murtala Muhammed International Airport,Lagos,1.0,6.5774,3.3215
+LHR,GBR,London,London Heathrow Airport,-,0.0,51.4700,-0.4543
+LAX,USA,Los Angeles,Los Angeles International Airport,California,-8.0,33.9416,-118.4085
+MNL,PHL,Manila,Ninoy Aquino International Airport,-,8.0,14.5086,121.0195
+MAR,VEN,Maracaibo,La Chinita International Airport,-,-4.0,10.5586,-71.7275
+MEL,AUS,Melbourne,Melbourne Airport,Victoria,11.0,-37.6733,144.8430
+MEL,AUS,Melbourne,Melbourne Airport (Tullamarine Airport),Victoria,11.0,-37.6690,144.8410
+MEX,MEX,Mexico City,Mexico City International Airport,-,-6.0,19.4363,-99.0725
+MIA,USA,Miami,Miami International Airport,Florida,-5.0,25.7959,-80.2870
+MSP,USA,Minneapolis,Minneapolis–Saint Paul International Airport,Minnesota,-6.0,44.8819,-93.2216
+ROB,LBR,Monrovia,Roberts International Airport,-,0.0,6.2399,-10.3621
+MVD,URY,Montevideo,Carrasco International Airport,-,-3.0,-34.8389,-56.0308
+MVD,URY,Montevideo,Carrasco International Airport,-,-3.0,-34.8281,-56.0265
+MVD,URY,Montevideo,Carrasco International Airport,,-3.0,-34.8384,-56.0308
+BOM,IND,Mumbai,Chhatrapati Shivaji Maharaj International Airport,-,5.5,19.0905,72.8679
+BOM,IND,Mumbai,Chhatrapati Shivaji Maharaj International Airport,,5.5,19.0905,72.8687
+MUC,DEU,Munich,Munich Airport,-,1.0,48.3537,11.7750
+BNA,USA,Nashville,Nashville International Airport,Tennessee,-6.0,36.1245,-86.6782
+NAS,BHS,Nassau,Lynden Pindling International Airport,-,-5.0,25.0389,-77.4663
+MSY,USA,New Orleans,Louis Armstrong New Orleans International Airport,Louisiana,-6.0,29.9934,-90.2580
+JFK,USA,New York City,John F. Kennedy International Airport,New York,-5.0,40.6413,-73.7781
+LGA,USA,New York City,LaGuardia Airport,New York,-5.0,40.7769,-73.8740
+LGA,USA,New York City,LaGuardia Airport,New York,-5.0,40.7769,-73.8731
+EWR,USA,Newark,Newark Liberty International Airport,New Jersey,-5.0,40.6895,-74.1745
+NUE,DEU,Nuremberg,Nuremberg Airport,-,1.0,49.4987,11.0669
+MCO,USA,Orlando,Orlando International Airport,Florida,-5.0,28.4294,-81.3089
+KIX,JPN,Osaka,Kansai International Airport,Osaka Prefecture,9.0,34.4347,135.2442
+ITM,JPN,Osaka,Osaka International Airport,Osaka,9.0,34.7854,135.4382
+CDG,FRA,Paris,Paris Charles de Gaulle Airport,-,1.0,49.0097,2.5479
+ORY,FRA,Paris,Paris Orly Airport,-,1.0,48.7262,2.3630
+PHL,USA,Philadelphia,Philadelphia International Airport,Pennsylvania,-5.0,39.8729,-75.2437
+SXM,SXM,Philipsburg (St. Maarten),Princess Juliana International Airport,-,-4.0,18.0408,-63.1089
+PIT,USA,Pittsburgh,Pittsburgh International Airport,Pennsylvania,-5.0,40.4915,-80.2328
+PTP,GLP,Pointe-à-Pitre,Pointe-à-Pitre Le Raizet Airport,-,-4.0,16.2676,-61.5259
+POS,TTO,Port of Spain,Piarco International Airport,-,-4.0,10.5954,-61.3372
+PVD,USA,Providence,T.F. Green Airport,Rhode Island,-5.0,41.7239,-71.4281
+RDU,USA,Raleigh/Durham,Raleigh-Durham International Airport,North Carolina,-5.0,35.8776,-78.7875
+GIG,BRA,Rio de Janeiro,Rio de Janeiro–Galeão International Airport,-,-3.0,-22.8124,-43.2488
+ROC,USA,Rochester,Greater Rochester International Airport,New York,-5.0,43.1189,-77.6727
+SAT,USA,San Antonio,San Antonio International Airport,Texas,-6.0,29.5337,-98.4698
+SFO,USA,San Francisco,San Francisco International Airport,California,-8.0,37.6215,-122.3780
+GRU,BRA,São Paulo,São Paulo-Guarulhos International Airport,São Paulo,-3.0,-23.4356,-46.4731
+SEA,USA,Seattle,Seattle-Tacoma International Airport,Washington,-8.0,47.4502,-122.3088
+ICN,KOR,Seoul,Incheon International Airport,-,9.0,37.4602,126.4407
+PVG,CHN,Shanghai,Shanghai Pudong International Airport,-,8.0,31.1443,121.8052
+PVG,CHN,Shanghai,Shanghai Pudong International Airport,-,8.0,31.1443,121.8083
+SHA,CHN,Shanghai,Shanghai Hongqiao International Airport,,8.0,31.1974,121.3358
+SIN,SGP,Singapore,Singapore Changi Airport,-,8.0,1.3644,103.9915
+STR,DEU,Stuttgart,Stuttgart Airport,-,1.0,48.6899,9.2210
+SYD,AUS,Sydney,Sydney Airport,New South Wales,11.0,-33.9461,151.1772
+SYR,USA,Syracuse,Syracuse Hancock International Airport,New York,-5.0,43.1112,-76.1116
+TPE,TWN,Taipei,Taiwan Taoyuan International Airport,-,8.0,25.0777,121.2325
+TPA,USA,Tampa,Tampa International Airport,Florida,-5.0,27.9756,-82.5333
+HND,JPN,Tokyo,Tokyo Haneda Airport,-,9.0,35.5533,139.7819
+NRT,JPN,Tokyo,Narita International Airport,-,9.0,35.7647,140.3863
+HND,JPN,Tokyo,Haneda Airport,-,9.0,35.5494,139.7798
+NRT,JPN,Tokyo,Narita International Airport,-,9.0,35.7647,140.3863
+HND,JPN,Tokyo,Haneda Airport,-,9.0,35.5494,139.7798
+RME,USA,Utica,Oneida County Airport,New York,-5.0,43.1442,-75.3844
+DCA,USA,"Washington, D.C.",Ronald Reagan Washington National Airport,Virginia,-5.0,38.8512,-77.0402
+IAD,USA,"Washington, D.C.",Washington Dulles International Airport,Virginia,-5.0,38.9522,-77.4475
+PBI,USA,West Palm Beach,Palm Beach International Airport,Florida,-5.0,26.6832,-80.0956
+ZRH,CHE,Zurich,Zurich Airport,,1.0,47.4647,8.5492
+ANU,ATG,St. John's,V.C. Bird International Airport,,-4,17.1367,-61.7927
+BGI,BRB,Bridgetown,Grantley Adams International Airport,,-4,13.0804,-59.4918
+BDL,USA,Hartford,Bradley International Airport,CT,-5,41.9389,-72.6832
+ZAG,HRV,Zagreb,Zagreb Airport (Franjo Tuđman),,1,45.7429,16.0688
+KHI,PAK,Karachi,Jinnah International Airport,,5,24.9065,67.1608
+NAS,BHS,Nassau,Lynden Pindling International Airport,,-5,25.0389,-77.4662
+PTP,GLP,Pointe-à-Pitre,Pointe-à-Pitre Le Raizet Airport,,-4,16.2675,-61.5268
+SKB,KNA,Basseterre,Robert L. Bradshaw International Airport,,-4,17.3112,-62.7186
+SXM,SXM,Philipsburg,Princess Juliana International Airport,,-4,18.0409,-63.1089
